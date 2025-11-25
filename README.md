@@ -7,5 +7,5 @@ Thanks to all the amazing people who have contributed:
 
 | Name | Role | Link |
 |------|-------|------|
-| ______ | Lead Developer | https://github.com/___________ |
+| Red | Lead Developer | https://github.com/momabear-red |
 | Rachel | Contributor | https://github.com/thatbtchred |
